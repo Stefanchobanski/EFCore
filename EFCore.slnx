@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Library/Library.csproj" Id="6873dce0-3c73-4c6c-91f2-23cfc0796995" />
+  <Project Path="Market/Market.csproj" />
+</Solution>
